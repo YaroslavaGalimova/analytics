@@ -1,0 +1,19 @@
+Generation of 100 numbers was finished
+Time: 0.00999 seconds
+Average time for one number: ~99.87 μs
+
+Generation of 500 numbers was finished
+Time: 0.03428 seconds
+Average time for one number: ~68.56 μs
+
+Generation of 1000 numbers was finished
+Time: 0.06163 seconds
+Average time for one number: ~61.63 μs
+
+Generation of 10000 numbers was finished
+Time: 0.64867 seconds
+Average time for one number: ~64.87 μs
+
+Generation of 50000 numbers was finished
+Time: 3.33965 seconds
+Average time for one number: ~66.79 μs
